@@ -2,6 +2,7 @@
 layout: post
 title: "Revisiting the A&P"
 author: Ron Desmond
+image: A&PImage.jpg
 ---
 
 The first time I read the A & P by John Updike, as a 9th grader beginning high school, I thought Sammy was kind of lame.  Even writing his name now — Sammy is an affectionate childhood name, isn’t it — recalls and reinforces the judgment.
