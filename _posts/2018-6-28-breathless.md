@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Viktoria"
+title: "ViKtoria"
 author: Ron Desmond
 image: Lovers.jpg
 ---
