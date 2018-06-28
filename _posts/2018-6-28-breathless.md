@@ -65,20 +65,23 @@ you look so sad; please -- you tell me -- help me, please say something
 
 <br>
 I tell myself, please say something
-
+<br>
+<br>
 the mind's chamber breaks,
-
+<br>
 the void crushes the delicate casing; sucking it in<br>
 substance rushing out, soul rushing out
-
+<br>
+<br>
 each thought gripping tightly, futilly,<br>
 like the last fingers to the remnants of the<br>
 collapsing structure
-
+<br>
 before the black hole yanks them
-
+<br>
 before the void suffocates the soul
-
+<br>
+<br>
 drains all cognition
 
 <br>
