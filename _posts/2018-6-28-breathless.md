@@ -26,10 +26,10 @@ I loved you, though, in the brief moments we felt
 
 before you brushed me off
 
-  
+<br>
 No, I can't say that, filter it out
 
-  
+<br>
 but now the eyes, the beautiful brown eyes stare longingly, lovingly, waiting  
 crestfallen, I notice you drop with disinterest, with sadness;
 
@@ -41,7 +41,7 @@ emotion
 oh what cities of wonder lost, what atlantises forever submerged
 by the vacuum, that medium between body and soul.
 
-  
+<br>
 the emotionless, stock question, the straight face, the robotic delivery
 inspires nothing.
 
@@ -49,10 +49,10 @@ you answer as best you can; nothing begets nothing.
 
 and silence
 
-  
+<br>
 what to say
 
-  
+<br>
 looks forward focusing blankly
 wheels spinning
 
@@ -62,7 +62,7 @@ brow furrowed, breathing intently
 
 you look so sad; please -- you tell me -- help me, please say something
 
-  
+<br>
 I tell myself, please say something
 
 the mind's chamber breaks,
@@ -80,10 +80,10 @@ before the void suffocates the soul
 
 drains all cognition
 
-
-
-
+<br>
+<br>
+<br>
 I look forward empty, stupidly
 
-
+<br>
 please say something
