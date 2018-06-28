@@ -4,7 +4,7 @@ title: "Breathless"
 author: Ron Desmond
 image: Lovers.jpg
 ---
-she looks at me with expectant eyes
+she looks at me with expectant eyes<br>
 as if to ask
 
 no words come out
@@ -13,15 +13,15 @@ no words come out
 
 what do I say?
 
-do you remember when I sank that cup and won the game and
-your arm grazed my shoulder in felicity
-transferring static electricity
-we celebrated the celebration
+do you remember when I sank that cup and won the game and<br>
+your arm grazed my shoulder in felicity<br>
+transferring static electricity<br>
+we celebrated the celebration<br>
 the moment of college consummation
 
 No, you would not remember and just say no and look at me funny
 
-it's been so long; you thought you were above me before.  
+it's been so long; you thought you were above me before.<br>
 I loved you, though, in the brief moments we felt
 
 before you brushed me off
@@ -30,19 +30,20 @@ before you brushed me off
 No, I can't say that, filter it out
 
 <br>
-but now the eyes, the beautiful brown eyes stare longingly, lovingly, waiting  
+but now the eyes, the beautiful brown eyes stare longingly, lovingly, waiting<br>
 crestfallen, I notice you drop with disinterest, with sadness;
 
 I offer a stock question.
 
-In transmission the void saps all feeling, incinerates the inward  
+In transmission the void saps all feeling, incinerates the inward<br>
 emotion
 
-oh what cities of wonder lost, what atlantises forever submerged
-by the vacuum, that medium between body and soul.
+oh what cities of wonder lost, what atlantises forever<br>
+submerged by the vacuum, that<br>
+medium between body and soul.
 
 <br>
-the emotionless, stock question, the straight face, the robotic delivery
+the emotionless, stock question, the straight face, the robotic delivery<br>
 inspires nothing.
 
 you answer as best you can; nothing begets nothing.
@@ -53,7 +54,7 @@ and silence
 what to say
 
 <br>
-looks forward focusing blankly
+looks forward focusing blankly<br>
 wheels spinning
 
 what to say
@@ -67,11 +68,11 @@ I tell myself, please say something
 
 the mind's chamber breaks,
 
-the void crushes the delicate casing; sucking it in
+the void crushes the delicate casing; sucking it in<br>
 substance rushing out, soul rushing out
 
-each thought gripping tightly, futilly,
-like the last fingers to the remnants of the  
+each thought gripping tightly, futilly,<br>
+like the last fingers to the remnants of the<br>
 collapsing structure
 
 before the black hole yanks them
