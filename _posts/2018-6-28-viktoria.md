@@ -2,7 +2,6 @@
 layout: post
 title: "Viktoria"
 author: Ron Desmond
-image: Lovers.jpg
 ---
 she looks at me with expectant eyes<br>
 as if to ask
