@@ -108,7 +108,7 @@ Alone, with only my mistakes,<br>
 My cruelties, and my idiocies.<br>
 <br>
 So ends, like so many<br>
-Others, the woeful tale
+Others, the woeful tale<br>
 Of my first true love.<br>
 
 
