@@ -19,7 +19,7 @@ But beautifully still, held<br>
 Fixed against the whirring<br>
 Silver of spokes and gears<br>
 Not a speck of its namesake red<br>
-Which like rust would only<br>
+Which, like rust, would only<br>
 Adulterate its clean beauty.<br>
 <br>
 Note dear reader the lack of ‘unity’ for<br>
