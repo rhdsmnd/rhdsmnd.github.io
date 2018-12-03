@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: poem
 title: "Viktoria"
-author: Ron Desmond
+formatDate: 6/28/2018
+date: 2018-06-28 00:00:00
 ---
 she looks at me with expectant eyes<br>
 as if to ask
