@@ -18,8 +18,8 @@ Rebellious heart, defiant<br>
 But beautifully still, held<br>
 Fixed against the whirring<br>
 Silver of spokes and gears<br>
-Not a speck of painted red<br>
-Like rust which would only<br>
+Not a speck of its namesake red<br>
+Which, like rust, would only<br>
 Adulterate its clean beauty.<br>
 <br>
 Note dear reader the lack of ‘unity’ for<br>
@@ -108,7 +108,7 @@ Alone, with only my mistakes,<br>
 My cruelties, and my idiocies.<br>
 <br>
 So ends, like so many<br>
-Others, the woeful tale of my first true<br>
-Love.<br>
+Others, the woeful tale<br>
+Of my first true love.<br>
 
 
