@@ -1,4 +1,4 @@
-﻿---
+---
 layout: poem
 title: "Eulogy to the Redline"
 formatDate: 12/2/2018
