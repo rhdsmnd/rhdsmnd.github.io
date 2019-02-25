@@ -25,7 +25,7 @@ Lightly, pleasantly, his arm hair<br>
 Tingling in rapturous sensation<br>
 <br>
 Words covered their pleasure<br>
-Easily, and they let speech gracefully<br>
+Easily and they let speech gracefully<br>
 Work its burueaucratic purpose, the<br>
 Formality cloaking them in comfort<br>
 <br>
@@ -38,10 +38,11 @@ Motion, wonder, and possibility.<br>
 <br>
 Oh how quick the flighty moment had passed!<br>
 Divinely ordained and as divinely revoked<br>
-Left them bare, empty, ininspired<br>
+Left them bare, empty, uninspired;<br>
 Yet the piece, by divine memory<br>
-So graciously given, lay lovingly<br>
-At the other end of the ethereal<br>
-Portal.  Within that great expanse that one<br>
+Graciously given, entered<br>
+Into the ethereal portal.<br>
+
+Within that great expanse that one<br>
 Secret brightened one part of the otherwise<br>
 Infinitely dark universe.<br>
