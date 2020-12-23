@@ -93,7 +93,7 @@ And moved swiftly, silently, fatally.<br>
 All that was left were the broken<br>
 Pieces of a metal far less pure<br>
 Than the one it guarded, that last shameful<br>
-Irony cut the psyche like heaven<br>
+Reminder cut the psyche like heaven<br>
 The lock, and I did wander on foot<br>
 Alone, with only my mistakes,<br>
 My cruelties, and my idiocies.<br>
