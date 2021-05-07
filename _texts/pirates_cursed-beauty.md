@@ -13,7 +13,7 @@ The golden amulet in the following scene of "Pirates of the Caribbean: The Curse
 <br>
 At the start of this scene, Elizabeth beholds this forbidden amulet in the privacy of her bedroom until a knock intrudes upon her secret transgression.  Frantically, she puts on her sleeping gown and conceals the bewitched trinket in between her breasts -- hidden beneath her clothing and near the heart, as well as the center of her being.  Then, the cursed beauty, or perhaps the affinity or desire for it, we cherish and hold literally near to our heart.
 <br>
-<div style="height:150px;"><div style="float:left"><img src="{{site.url}}/assets/img/amulet.png" /></div></div>
+<div style="height:150px;"><div style="float:left"><img src="{{site.github.url}}/assets/img/pirates/amulet.png" /></div></div>
 <br>
 Why does she care for it?  What in the amulet calls her to it?  This unknown quantity hearkens to a prelapsarian part of our being; to the allure within Eve when she spied the tender fruit of knowledge, to the perverse curiousity that willed Pandora to unleash untold horrors into the world.  It is the draw that women feel toward the unknown, and the undiscovered.  A chance for something more, something new, something that speaks to the greater unknown part of her being.  There is more to life for Elizabeth than the dull day-to-day pleasantries and errands designed to soothe the empty aristocratic mind of her father.
 <br>
