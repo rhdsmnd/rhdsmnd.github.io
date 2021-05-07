@@ -45,11 +45,11 @@ And for his young counterpart and love interest, Elizabeth too has British socie
 <br>
 Through their spellbound state -- held by forces, gifts, and curses outside themselves -- they hopelessly continue on their predestined path.  Will fails to break through the charade of social custom and Elizabeth follows her father to the carriage that will take her away to her new husband and new life.  The symphony plays in the background as Will realizes the finality of the moment once he is left behind as the only one in the frame of an abandoned mansion.  As with all men, he understands too late what he must do, and only after it has passed does he act with the guts and insight required of him merely seconds before: "Good day, Elizabeth".
 <br>
-<div style="height:150px;"><div style="float:left"><img src="https://rhdsmnd.github.io/assets/img/pirates/elizabeth.png" /></div></div>
+<div style="height:150px;"><div style="float:left"><img src="https://rhdsmnd.github.io/assets/img/pirates/elizabeth.PNG" /></div></div>
 <br>
-<div style="height:150px;"><div style="float:left"><img src="https://rhdsmnd.github.io/assets/img/pirates/elizabethridesaway.png" /></div></div>
+<div style="height:150px;"><div style="float:left"><img src="https://rhdsmnd.github.io/assets/img/pirates/elizabethridesaway.PNG" /></div></div>
 <br>
 The soft sunlight warms Will's face as he accepts the fact that he loves her, and that it is only hours before he loses her forever.  The horns boom in the background, the hooves of fate and finality trample the foreground, and Elizabeth looks back once more at Will before she rides away from her childhood home -- out of his sight and out of his life -- forever.  Wherein at the end of the scene we are left standing dumb and dumbfounded like Will, wondering whether earnest love can exist within the amulet of human society, and of what amulet we ourselves wear and by what beauty and curse we are unknowlingly spellbound by.
 <br>
-<div style="height:250px;"><div style="float:left"><img src="https://rhdsmnd.github.io/assets/img/pirates/will-background.png" /></div></div>
+<div style="height:250px;"><div style="float:left"><img src="https://rhdsmnd.github.io/assets/img/pirates/will-background.PNG" /></div></div>
 <br>
